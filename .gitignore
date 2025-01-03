@@ -1,0 +1,5 @@
+.env
+.venv
+.conda
+.DS_Store
+__pycache__/

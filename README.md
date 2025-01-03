@@ -1,1 +1,2 @@
-# mahe-quantum-atal-2025
+# ATAL FDP ON QUANTUM COMPUTING - MAHE
+## 7 & 8 Jan 2025
